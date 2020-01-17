@@ -1,0 +1,44 @@
+<html lang="en"><head>
+  <meta charset="UTF-8">
+  <title>Cambria Search Engine</title>
+  <link rel="stylesheet" href="./style.css">
+    <style>
+        .whitetext{
+            color: white;
+        }
+    </style>
+</head>
+<body bgcolor="#3e1d33">
+
+
+<!-- partial:index.partial.html -->
+        <a href="https://www.cambriainstitute.org/about-us" class="whitetext"><font face="verdana">About</font></a>
+        <a href="https://new.edmodo.com/home" class="whitetext"><font face="verdana">Edmodo</font></a>
+        <a href="https://mail.google.com/mail/u/0/" class="whitetext"><font face="verdana">Gmail</font></a>
+    <br>
+        <p></p>
+    <br>
+        <p></p>
+    <br>
+            <p></p>
+    <br>
+    <center><a href="https://www.cambriainstitute.org/"><img src="The%20Cambria%20Institute%20Logo%20.jpeg" width="320" height="194"></a></center>
+        <p></p>
+    <br>
+        <p></p>
+    <br>
+                <p></p>
+    <br>
+<center>
+    <form action="https://duckduckgo.com/" method="get">
+    <input type="text" name="q" placeholder="Search Mrs. Gonzales' big brain - powered by Duckduckgo">
+    </form>
+    </center>
+    <center><a href="https://www.khanacademy.org/"><img src="https://www.androidpolice.com/wp-content/uploads/2015/09/nexus2cee_k.png" width="125" height="125"></a>
+    <a href="https://www.caltech.edu/"><img src="http://identity.caltech.edu/site_images/447-caltech_seal-200w.png" width="125" height="125"></a>
+        <a href="https://is.byu.edu/"><img src="byu.png" width="125" height="125"></a>
+    </center>
+<!-- partial -->
+  
+
+</body></html>
